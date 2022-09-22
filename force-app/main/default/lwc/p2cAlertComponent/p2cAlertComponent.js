@@ -7,4 +7,5 @@ export default class P2cAlertComponent extends LightningElement {
     @api number
     @api isValid
     //changes in master branch
+    //changes in developnew branch
 }
