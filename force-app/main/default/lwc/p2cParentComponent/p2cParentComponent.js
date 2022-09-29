@@ -18,7 +18,7 @@ export default class P2cParentComponent extends LightningElement {
         src: "https://www.lightningdesignsystem.com/assets/images/carousel/carousel-03.jpg",
         header: "Third Card",
         description: "Third card description "
-
+//update
     }
 
   ]
